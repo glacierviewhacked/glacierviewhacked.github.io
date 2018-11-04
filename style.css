@@ -1,12 +1,19 @@
-
-
 .column {
     float: left;
-    width: 33.33%;
+    width: 20%;
+	margin-left: 2%;
+	margin-top: 2%;
+	background-color: #171717;
 }
 
 .column h3 {
 	color: white;
+	font-size: 10px;
+}
+
+.column h2 {
+	color: white;
+	font-size: 18px;
 }
 
 h2 {
@@ -47,7 +54,7 @@ body {
 .topnav {
     overflow: hidden;
     background-color: #252525;
-	padding-left: 6%;
+	padding-left: 15%;
 }
 
 /* Style the topnav links */
@@ -117,9 +124,9 @@ body {
 	
 	float: left;
 	margin-top: 1.2%;
-    margin-left: 12%;
+    margin-left: 15%;
     background-color: #0F0F0F;
 	padding: 1%;
-	width: 73%;
+	width: 71%;
 }
 
